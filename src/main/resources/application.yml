@@ -1,0 +1,7 @@
+tokenurl: https://dev-14420365.okta.com/oauth2/default/v1/token
+okta:
+    oauth2:
+        client-id: 0oa17on6gkWYnOryl5d7
+        client-secret: eehfZ1Ap6Ubv_QVdURqRGiLzP1TQOl5ond_rJnLv
+        issuer: https://dev-14420365.okta.com/oauth2/default
+---
